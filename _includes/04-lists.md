@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## Things I like
+1. Medicine
+2. Science
+3. Learning
